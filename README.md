@@ -55,7 +55,7 @@ Entre os principais insights identificados:
 
 ## 📊 Dashboard
 
-Abaixo será apresentada uma visão do dashboard desenvolvido no Power BI.
+![Dashboard FoodInsight](imagens/dashboard.png)
 
 ## 💡 Aprendizados
 
